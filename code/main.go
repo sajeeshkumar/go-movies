@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sajeeshkumar/go-movies/services"
+	"github.com/sajeeshkumar/go-movies/code/services"
 )
 
 var appName = "movies-library"
